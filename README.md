@@ -1,22 +1,7 @@
-<div align="center">
-
-# `whoami`
-### > icet3es_
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icet3es&show_icons=true&theme=dracula&hide_border=true)
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+things+in+the+dark;Learning+by+breaking+things;Currently+debugging...)
 
 
-
-</div>
-
----
-
-### `> system.info`
-
-```bash
-$ cat about.txt
-> Access level: restricted
-> Focus: problem solving, systems, logic
-> Status: [ COMPILING... ]
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=icet3es&theme=dracula&hide_border=true)
